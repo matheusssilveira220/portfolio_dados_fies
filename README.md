@@ -35,7 +35,7 @@ Não querendo me prender apenas nos dados disponíveis no MEC, fui atrás de inf
 
 -**Transformação das informações em insights**
 
--**Data visualization**
+-**Data Visualization**
 
 -**Data Storytelling**
 
