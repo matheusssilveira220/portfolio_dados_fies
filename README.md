@@ -1,4 +1,4 @@
-## :open_book: FIES
+# :open_book: FIES
 
 Meu foco nesse projeto é entender as mudanças que ocorreram dentro do programa governamental, utilizando os dados públicos de 2019, 2020 e 2021. Com base nisso, decidi por iniciar o processo extraindo os dados, realizando a limpeza e manutenção necessaria nas informações, e então realizar a análise dos dados.
 
@@ -17,7 +17,7 @@ Não querendo me prender apenas nos dados disponíveis no MEC, fui atrás de inf
 
 -**Pandas**
 
--*Pandas_Profiling
+-**Pandas_Profiling**
 
 -**Matplotlib**
 
